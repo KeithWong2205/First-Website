@@ -1,0 +1,125 @@
+header
+{
+	background-image: url(../Asset/background3.jpg);
+	background-size: 70%;
+	text-align: center;
+	font-size: 150%;
+	color: #ffffff;
+	padding: 30px;
+	text-shadow: 2px 2px #0000ff;
+	margin: 0 auto;
+}
+body
+{
+	margin: 0;
+	padding: 0;
+	color: #ffffff;
+	background-color: #000000;
+}
+h4
+{
+	text-align: center;
+	font-size: 120%;
+}
+aside
+{
+	display: inline-block;
+	float: left;
+	width: 25%;
+	padding: 5px;
+	background-color: #000000;
+}
+aside img
+{
+	display: block;
+	width: 100%;
+	height: 300px;
+	margin: 0 auto;
+	padding: 0;
+}
+section
+{
+	float: clear;
+	display: inline-block;
+	width: 70%;
+	height: 300px;
+	padding: 15px;
+	margin: 0 auto;
+	font-size: 150%;
+}
+table
+{
+	font-size: 120%;
+	width: 60%;
+	color: #ffffff;
+	border-spacing: 0;
+	padding: 5px;
+	margin: 0 auto;
+}
+table th
+{
+	text-align: center;
+	text-shadow: 1px 1px #00ff00;
+
+	border: 1px solid white;
+	border-bottom: 2px solid white;
+	border-radius: 10px 10px 0 0;
+	-webkit-border-radius: 10px 10px 0 0;
+	padding: 10px;
+}
+table td
+{
+	border: 1px solid white;
+	padding: 5px;
+}
+nav
+{
+	display: block;
+	align-content: center;
+	margin: 0 auto;
+}
+nav img
+{
+	display: inline-block;
+	width: 240px;
+	height: 300px;
+	margin: 0 auto;
+	padding: 35px;
+}
+a img
+{
+	-webkit-transition: 0.3s;
+}
+a img:hover
+{
+	-webkit-filter: none;
+}
+.Links
+{
+	-webkit-filter: blur(2px);
+}
+summary
+{
+	outline: none;
+	font-size: 120%;
+}
+.gear
+{
+	display: inline-block;
+	width: 40%;
+	float: left;
+	font-size: 110%;
+	height: 300px;
+	padding: 5px;
+	margin: 0 auto;
+}
+.check
+{
+	display: inline-block;
+	float: clear;
+	width: 50%;
+	font-size: 110%;
+	height: 300px;
+	padding: 5px;
+	margin: 0 auto;
+}

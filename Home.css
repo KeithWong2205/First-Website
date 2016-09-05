@@ -1,0 +1,90 @@
+header
+{
+	background-image: url(../Asset/Background.jpg);
+	background-size: 50%;
+	text-align: center;;
+	font-size: 150%;
+	color: #ffd11a;
+	text-shadow: 2px 2px #000000;
+	padding: 30px;
+	margin: 0 auto;
+}
+body
+{
+	padding: 0;
+	margin: 0;
+	color: #ffffff;
+	background-color: #000000;
+}
+aside
+{
+	display: inline-block;
+	float: left;
+	width: 30%;
+	padding: 15px;
+	background-color: #000000;
+}
+aside img
+{
+	display: block;
+	width: 100%;
+	height: 300px;
+	margin: 0 auto;
+	padding: 0;
+}
+section
+{
+	float: clear;
+	display: inline-block;
+	width: 80%;
+	height: 300px;
+	padding: 15px;
+	margin: 0 auto;
+	font-size: 130%;
+}
+nav img
+{
+	display: inline-block;
+	align-content: center;
+	width: 240px;
+	height: 300px;
+	margin: 0 auto;
+	padding: 2px;
+}
+a img
+{
+	-webkit-transition: 0.3s;
+}
+a img:hover
+{
+	-webkit-filter: none;
+}
+.up
+{
+	display: block;
+	padding: 15px;
+}
+.down
+{
+	display: block;
+}
+footer
+{
+	text-align: center;
+	font-size: 120%;
+}
+footer img
+{
+	width: 150px;
+	height: 150px;
+	display: block;
+	margin: 0 auto
+}
+.Links
+{
+	-webkit-filter: blur(2px);
+}
+summary
+{
+	outline: none;
+}

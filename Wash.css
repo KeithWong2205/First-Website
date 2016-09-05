@@ -1,0 +1,102 @@
+header
+{
+	background-image: url(../Asset/background5.jpg);
+	background-size: 80%;
+	padding: 30px;
+	text-align: center;
+	font-size: 150%;
+	color: #ffffff;
+	text-shadow: 2px 2px #ffcc00;
+	margin: 0 auto;
+}
+body
+{
+	margin: 0;
+	padding: 0;
+	color: #ffffff;
+	background-color: #000000;
+}
+aside
+{
+	display: inline-block;
+	float: left;
+	width: 25%;
+	padding: 5px;
+	background-color: #000000;
+}
+aside img
+{
+	display: block;
+	width: 100%;
+	height: 300px;
+	margin: 0 auto;
+	padding: 0;
+}
+h3
+{
+	font-size: 150%;
+	text-align: center;
+}
+h4
+{
+	font-size: 120%;
+	text-align: center;
+}
+nav img
+{
+	display: inline-block;
+	width: 240px;
+	height: 300px;
+	margin: 0 auto;
+	padding: 35px;
+}
+summary
+{
+	outline: none;
+	font-size: 110%;
+}
+details
+{
+	font-size: 120%;
+}
+p
+{
+	font-size: 120%;
+}
+a img
+{
+	-webkit-transition: 0.3s;
+}
+a img:hover
+{
+	-webkit-filter: none;
+}
+.Links
+{
+	-webkit-filter: blur(2px);
+}
+.logo
+{
+
+	display: inline-block;
+	float: left;
+	width: 30%;
+	height: 870px;
+}
+.intro
+{
+	float: clear;
+	display: inline-block;
+	width: 70%;
+	height: 300px;
+	padding: 15px;
+	margin: 0 auto;
+	font-size: 120%;
+}
+.logo2
+{
+	display: inline-block;
+	float: left;
+	width: 30%;
+	height: 350px;
+}
